@@ -1,0 +1,12 @@
+{
+  "name": "lp-porto-portocredit",
+  "version": "1.0.0",
+  "description": "Landing page Porto Vale Consórcio",
+  "private": true,
+  "scripts": {
+    "start": "live-server --port=5500 --open=index.html"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
